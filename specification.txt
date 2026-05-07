@@ -1,0 +1,15 @@
+HTML tags used:
+<link>, <nav>, <div>, <p>, <button>, <span>, <ul>, <li>, <img>, <a>
+
+CSS properties:
+background-color
+margin-top
+font-size
+font-family
+display
+
+JavaScript usage:
+Education section displays corresponding school img and descrip when name is clicked
+
+Bootstrap usage:
+dropdown class for nav button on all pages and table classes: table-primary, etc.
